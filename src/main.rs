@@ -17,7 +17,7 @@ enum Value {
     Void,
     I64(i64),
     F64(f64),
-    String(Rc<String>),
+    //String(Rc<String>),
     //Res(Rc<Res>),
 }
 
